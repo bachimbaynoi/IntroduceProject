@@ -10,6 +10,7 @@ giới thiệu và quảng bá cửa hàng, cung cấp các sản phẩm về qu
 các bạn trẻ hiện nay đang cảm thấy thích thú, bên cạnh đó, Website cũng giúp cho
 khách hàng thu hẹp khoảng cách về đường xá, làm cho việc kinh doan của cửa hàng 
 được phát triển tốt hơn.
+
 2/Thông tin dự án :
 
 - google drive: https://docs.google.com/document/d/1kLtbb-Lf0uQOoCtc0c5MjI0AWzYueZmR8gVDunjxj8o/edit

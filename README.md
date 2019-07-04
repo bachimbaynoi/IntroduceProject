@@ -53,3 +53,8 @@ khách hàng thu hẹp khoảng cách về đường xá, làm cho việc kinh d
 - Còn những người dùng khác chỉ có thể mua hàng, tạo tài khoản khách hàng
 
 - Nếu khách hàng muốn thêm sản phẩm , có thể liên hệ nhóm , nếu thêm nhiều , tính theo % dựa vào số lượng món hàng
+
+- Phần mềm của nhóm được pháp luật bảo vệ nếu có bên thứ 3 xâm phạm quyền sở hữu trí tuệ với phần mềm đăng ký, hoặc
+có người cố xâm phạm đến quyền lợi thông tin của khách hàng
+
+- Độc quyền sử dụng phần mềm

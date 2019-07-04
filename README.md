@@ -51,3 +51,5 @@ khách hàng thu hẹp khoảng cách về đường xá, làm cho việc kinh d
 - Chỉ những người có tài khoản do nhóm cung cấp mới có thể chỉnh sửa , thêm các mặt hàng
 
 - Còn những người dùng khác chỉ có thể mua hàng, tạo tài khoản khách hàng
+
+- Nếu khách hàng muốn thêm sản phẩm , có thể liên hệ nhóm , nếu thêm nhiều , tính theo % dựa vào số lượng món hàng

@@ -47,3 +47,7 @@ khách hàng thu hẹp khoảng cách về đường xá, làm cho việc kinh d
 5/Bản Quyền
 
 - Nhóm lấy tiền từ việc bán website cho khách hàng và tiền bảo trì hàng tháng website cho khách hàng
+
+- Chỉ những người có tài khoản do nhóm cung cấp mới có thể chỉnh sửa , thêm các mặt hàng
+
+- Còn những người dùng khác chỉ có thể mua hàng, tạo tài khoản khách hàng
